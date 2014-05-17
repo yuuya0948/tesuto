@@ -1,0 +1,5 @@
+#include<stdio.h>
+
+main(void){
+	for (1; 2; 3) printf("hello");
+}
